@@ -1,0 +1,26 @@
+{
+  "name": "jsx-and-tsx-element-templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "none",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XCrimsona/jsx-and-tsx-element-templates.git"
+  },
+  "keywords": [
+    "react-dry-components"
+  ],
+  "author": "XCrimsona/Christeen-Fabian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XCrimsona/jsx-and-tsx-element-templates/issues"
+  },
+  "homepage": "https://github.com/XCrimsona/jsx-and-tsx-element-templates#readme",
+  "devDependencies": {
+    "@types/react": "^19.2.7"
+  }
+}
